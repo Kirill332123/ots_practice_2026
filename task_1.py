@@ -18,5 +18,5 @@ if __name__ == "__main__":
     info = get_system_info()
     print("Информация о системе:")
     for key, value in info.items():
-        print(f"- {key}: {value}")
+        print(f"- {key}: {value}") 
 
